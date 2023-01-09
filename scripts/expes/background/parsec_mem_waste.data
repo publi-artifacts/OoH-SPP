@@ -1,0 +1,15 @@
+#slowdown of each technique on the microbench
+#
+x264	75,8017
+raytrace 	59,0359
+dedup 	59,7344
+#canneal 	76,6782
+freqmine 	79,8305
+swaptions	76,2478
+bodytrack	61,1362
+fluidanimate 	75,7778
+blackscholes	75,7983
+streamcluster 	75,8938
+
+
+

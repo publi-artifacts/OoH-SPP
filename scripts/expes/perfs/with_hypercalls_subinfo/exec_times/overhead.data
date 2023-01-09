@@ -1,0 +1,53 @@
+#blackscholes						
+#policy	user_time_slim	sys_time_slim	sys_time_bochs	sys_time_hypercalls user_time_lean	sys_time_lean	sys_time_bochs	sys_time_hypercalls
+SlimGP	56.95	1.65	0	0	0	0	0	0
+LeanG	0	0	0	0	56.89	1.87	2.9	2416257
+						
+						
+#bodytrack						
+#policy	user_time_slim	sys_time_slim	sys_time_bochs	sys_time_hypercalls user_time_lean	sys_time_lean	sys_time_bochs	sys_time_hypercalls
+SlimGP	85.22	5.7	0	0	0	0	0	0
+LeanG	0	0	0	0	83.3175	5.53	2.26	2650216
+						
+						
+#dedup						
+#policy	user_time_slim	sys_time_slim	sys_time_bochs	sys_time_hypercalls user_time_lean	sys_time_lean	sys_time_bochs	sys_time_hypercalls
+SlimGP	15.91	6.92	0	0	0	0	0	0
+LeanG	0	0	0	0	15.72	6.94	1.76	3009581
+						
+						
+#fluidanimate						
+#policy	user_time_slim	sys_time_slim	sys_time_bochs	sys_time_hypercalls user_time_lean	sys_time_lean	sys_time_bochs	sys_time_hypercalls
+SlimGP	209.13	0.8	0	0	0	0	0	0
+LeanG	0	0	0	0	209.435	0.77	30.74	2367278
+						
+						
+#freqmine						
+#policy	user_time_slim	sys_time_slim	sys_time_bochs	sys_time_hypercalls user_time_lean	sys_time_lean	sys_time_bochs	sys_time_hypercalls
+SlimGP	4.27	0.68	0	0	0	0	0	0
+LeanG	0	0	0	0	4.13	0.69	0.948	2569365
+						
+						
+#raytrace						
+#policy	user_time_slim	sys_time_slim	sys_time_bochs	sys_time_hypercalls user_time_lean	sys_time_lean	sys_time_bochs	sys_time_hypercalls
+SlimGP	3.53	0.79	0	0	0	0	0	0
+LeanG	0	0	0	0	3.55	0.79	0.68	2569365
+						
+						
+#streamcluster						
+#policy	user_time_slim	sys_time_slim	sys_time_bochs	sys_time_hypercalls user_time_lean	sys_time_lean	sys_time_bochs	sys_time_hypercalls
+SlimGP	354.95	0.85	0	0	0	0	0	0
+LeanG	0	0	0	0	351.41	9.78	30.74	2585377
+						
+						
+#swaptions						
+#policy	user_time_slim	sys_time_slim	sys_time_bochs	sys_time_hypercalls user_time_lean	sys_time_lean	sys_time_bochs	sys_time_hypercalls
+SlimGP	183.64	92.16	0	0	0	0	0	0
+LeanG	0	0	0	0	183.32	90.85	17.125	2484155
+						
+						
+#x264						
+#policy	user_time_slim	sys_time_slim	sys_time_bochs	sys_time_hypercalls user_time_lean	sys_time_lean	sys_time_bochs	sys_time_hypercalls
+SlimGP	79.36	2.63	0	0	0	0	0	0
+LeanG	0	0	0	0	71.3525	2.89	3.057	2624143
+

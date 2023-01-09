@@ -1,0 +1,11 @@
+#app total_best total_worse
+blakscholes	34501	2026
+x264	43400	1513
+freqmine	43407	1210
+fluidanimate	58858	2206
+streamcluster	71482	1462
+bodytrack	184228	785
+swaptions	261529	1899
+dedup	1139012	5957
+canneal	1534423	6212
+
