@@ -1,0 +1,10 @@
+dans la VM il y a les scripts que j'utilisais pour lancer l'appli et récupérer son pid
+
+dans Linux, dans arch/x86/mm/fault.c, dans le handler du défaut de page (exc_page_fault), je print les logs pour mon appli en regardant le pid de current
+
+dans memory.c, dans do_anonymous_page, je fais également des print pour les vma spp
+
+ces 2 print me permettront de connaitre la proportion p des pages spp dans les défauts de page de l'appli
+
+
+et en utilisant donc le nb_tlb_misses dans ../tlb_misses, je calcule p*nb_tlb_misses pour avoir le #tlb_miss dus à spp
